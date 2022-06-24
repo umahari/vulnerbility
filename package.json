@@ -72,7 +72,7 @@
     "eslint-plugin-ember": "^6.10.0",
     "eslint-plugin-node": "^9.2.0",
     "fixturify": "^1.0.1",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "loader.js": "^4.2.3",
     "mocha": "^6.2.0",
     "qunit-dom": "^0.9.0"
